@@ -368,4 +368,4 @@ Para reportar errores o sugerir mejoras:
 
 **Última Actualización:** Abril 2024  
 **Versión:** 1.0  
-**Autor:** Portfolio Analyzer Pro Team
+**Autor:** Jonathan Ivan Salmoran Acuña
